@@ -4,6 +4,7 @@ public class StopWatch {
         long endTime = System.currentTimeMillis();
     }
 
+    //Test kommentar
     private long startTime = System.currentTimeMillis();
     private long endTime = System.currentTimeMillis();
     public void start(){
